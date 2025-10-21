@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Stephanie's Personal Website 
 description: Anisa personal website to showcase projects. 
 logo: /IMG_0954_Original.jpg
+show_downloads: true 
